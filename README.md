@@ -162,6 +162,11 @@ Marketing Funnel & Conversion Performance Analysis
 
 ![Final Insights Dashboard](Screenshots/final_insights.png)
 
+
+## Dashboard Preview
+
+![Dashboard Preview](Screenshots/dashboard_preview.png)
+
 ---
 
 ## Analysis Performed
