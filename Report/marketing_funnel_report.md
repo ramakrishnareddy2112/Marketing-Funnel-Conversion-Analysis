@@ -52,6 +52,35 @@ Housing loan status influenced customer subscription decisions.
 * Personalize offers based on customer demographics.
 * Improve follow-up strategies to reduce funnel drop-offs.
 
+## Skills Demonstrated
+
+* Marketing Funnel Analysis
+* Conversion Rate Analysis
+* Customer Segmentation
+* Exploratory Data Analysis (EDA)
+* Business Intelligence & Reporting
+* Data Visualization
+* Python (Pandas, Matplotlib, Seaborn)
+* Business Recommendations & Decision Making
+
+## Tools & Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+* VS Code
+
+## Project Deliverables
+
+* Funnel Performance Analysis Report
+* Conversion Rate Dashboard Visualizations
+* Customer Segment Insights
+* Actionable Business Recommendations
+* Marketing Optimization Strategy
+
 ## Conclusion
 
 The analysis reveals an overall conversion rate of 11.7%. By targeting high-performing channels and customer groups, organizations can improve conversion rates and optimize marketing expenditure.
